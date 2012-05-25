@@ -1,0 +1,6 @@
+[submodule "ISM-RELAY"]
+	path = ISM-RELAY
+	url = git@github.com:daleMelbourne/ISM-RELAY
+[submodule "LVIFA_Base"]
+	path = LVIFA_Base
+	url = git@github.com:daleMelbourne/LVIFA_Base
