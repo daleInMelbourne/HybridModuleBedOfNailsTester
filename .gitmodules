@@ -4,3 +4,6 @@
 [submodule "LVIFA_Base"]
 	path = LVIFA_Base
 	url = git@github.com:daleMelbourne/LVIFA_Base
+[submodule "Adafruit-MCP23017-Arduino-Library"]
+	path = Adafruit-MCP23017-Arduino-Library
+	url = git@github.com:daleMelbourne:Adafruit-MCP23017-Arduino-Library
