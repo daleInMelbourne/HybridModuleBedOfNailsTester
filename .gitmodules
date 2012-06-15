@@ -4,6 +4,3 @@
 [submodule "LVIFA_Base"]
 	path = LVIFA_Base
 	url = git@github.com:daleMelbourne/LVIFA_Base
-[submodule "Mcp23s17Basic"]
-	path = Mcp23s17Basic
-	url = git@github.com:Mcp23s17Basic
